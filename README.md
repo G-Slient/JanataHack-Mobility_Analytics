@@ -12,4 +12,4 @@ The problem statement is to predict the Surge Price Type This is a multi-Label c
 
 **Private Rank**: 12th
 
-Note: **If i would have selected this model for final evaluation it would be in top three.**
+**Note**: If i would have selected this model for final evaluation it would be in top three.
